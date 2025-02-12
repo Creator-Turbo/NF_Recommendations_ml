@@ -1,0 +1,14 @@
+# Data processing 
+numpy
+seaborn
+pandas
+scikit-learn
+
+# Web Application
+Flask
+requests
+
+# Model traking 
+mlflow 
+
+nltk
