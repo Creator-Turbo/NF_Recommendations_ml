@@ -12,3 +12,9 @@ requests
 mlflow 
 
 nltk
+
+# visualization
+ydata-profiling
+
+# kernal 
+ipywidgets
