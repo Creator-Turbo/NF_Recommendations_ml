@@ -110,21 +110,19 @@ To deploy the Flask web app on Render:
 
 ## Directory Tree 
 ```
-Song-Recommendation-System/
-│
-├── data/                # Song dataset
-├── model/               # Trained models
-├── static/              # Static files (CSS, JS, Images)
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── templates/           # HTML templates
-│   └── index.html
-├── .gitignore
-├── LICENSE
-├── README.md
-├── requirements.txt
-└── app.py               # Main Flask application
+📂 project-root/
+│── 📂 data/
+│── 📂 model/
+│── 📂 notebook/
+│── 📂 static/
+│── 📂 templates/
+│── 📂 venv/   
+│── 📄 .gitignore
+│── 📄 app.py
+│── 📄 LICENSE
+│── 📄 README.md
+│── 📄 requirements.txt
+│── 📄 template.py
 ```
 
 ## To Do
@@ -150,7 +148,6 @@ If you encounter any bugs or want to request a new feature, please open an issue
 [<img target="_blank" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*RWkQ0Fziw792xa0S" width=170>](https://pandas.pydata.org/docs/)
 [<img target="_blank" src="https://icon2.cleanpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946755581.webp" width=170>](https://flask.palletsprojects.com/en/stable/) 
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" width=200>](https://numpy.org/doc/) 
-
 ---
 
 ## Team
